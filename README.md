@@ -175,7 +175,7 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 ---
 
 ## 🧑‍💼 Author
-**Prateek Sharma**  
+**Prateek Lachwani**  
 Intern at Celebal Technologies  
 GitHub: [prateek200445](https://github.com/prateek200445)
 
