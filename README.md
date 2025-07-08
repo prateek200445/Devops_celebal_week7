@@ -35,6 +35,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [Microsoft Docs – Add Users to Team Project](https://learn.microsoft.com/en-us/azure/devops/organizations/security/add-users-team-project)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques1.odt)
 
 ---
 
@@ -48,6 +50,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [Branch Permissions in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-permissions)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques2%20and%206.odt)
 
 ---
 
@@ -61,6 +65,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [Branch Policies and Locks](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques3%20and%206.odt)
 
 ---
 
@@ -81,6 +87,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [Pipeline Triggers Docs](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/triggers)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques4.odt)
 
 ---
 
@@ -94,7 +102,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [Pull Requests in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-requests)
-
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques5.odt)
 ---
 
 ## 🚀 **Q6: Apply triggers in build and release**
@@ -112,6 +121,9 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [CI/CD Triggers Guide](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/triggers)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques3%20and%206.odt)
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques2%20and%206.odt)
 
 ---
 
@@ -125,6 +137,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [Release Pipeline Gates](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/approvals/gates)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques7.odt)
 
 ---
 
@@ -138,6 +152,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [Branch Security Docs](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-permissions)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques8.odt)
 
 ---
 
@@ -151,6 +167,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [Work Items in Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques9.odt)
 
 ---
 
@@ -163,6 +181,8 @@ Each task listed below has been executed and validated in a real Azure DevOps en
 
 **Reference**:
 - [GitHub Integration with Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/github/connect-to-github)
+**solution**
+📎 [Download Solution File](https://github.com/prateek200445/Devops_celebal_week7/blob/main/week7_ques10.odt)
 
 ---
 
